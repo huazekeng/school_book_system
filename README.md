@@ -1,7 +1,7 @@
-# second_shop
+# 校园共享书城
 
 #### 介绍
-商城后台管理系统接口，前端Vue项目:https://gitee.com/skhzk/vue_shop
+书城，前后端分离，后端springboot+mybatisplus，前端IView
 #### 软件架构
 软件架构说明
 
@@ -11,16 +11,24 @@
 4.  SpringSecurity
 5.  Swagger
 6.  JWT
+7.  IView
 
 #### 安装教程
 
-1.   只需安装好Redis，配置Maven和数据库，即可运行
+- 前端环境：
+1. - 安装Node即可
 
-#### 使用说明
+- 后端环境：
+1. 安装Redis
 
-1.  数据库不是原前端VUE_SHOP数据库，有做修改
-2.  有做刷新Token处理，Token过期时间30min，refresh_token过期一天，前端已经做token过期处理
-3.  前端为Vue项目
+#### 界面
+后台首页
+
+- ![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/230054_07210c45_2016556.png "屏幕截图.png")
+- 前台首页
+- ![输入图片说明](https://images.gitee.com/uploads/images/2020/0529/230113_e3c8d813_2016556.png "屏幕截图.png")
+
+
  
 #### 参与贡献
 
