@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "iview": "^3.5.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nprogress": "^0.2.0",
     "qs": "^6.9.3",
     "scss": "^0.2.4",
